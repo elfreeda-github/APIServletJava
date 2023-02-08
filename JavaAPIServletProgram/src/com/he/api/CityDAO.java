@@ -23,10 +23,6 @@ import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-/**
- *
- * @author divyansh
- */
 class CityDAO {
 
 	private static final String DATA_FILE_PATH = "src/com/he/api/data.xml";
