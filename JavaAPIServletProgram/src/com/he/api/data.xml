@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dataset>
+    <users id_auto_increment="3">
+        <user firstName="John" id="1" lastName="Dawson" cityId="1" />
+        <user firstName="John" id="2" lastName="Doe"    cityId="2" />
+    </users>
+    <cities>
+        <city id="1" name="New York"/>
+        <city id="2" name="Alaska"  />
+    </cities>
+</dataset>
