@@ -39,10 +39,7 @@ import org.junit.runners.MethodSorters;
 
 import com.he.api.APIServlet;
 
-/**
- *
- * @author divyansh
- */
+
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class SampleTest {
     
