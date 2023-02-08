@@ -33,10 +33,6 @@ import org.xml.sax.SAXException;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author divyansh
- */
 public class UserDAOConcrete implements UserDAO{
 
 	private static final String DATA_FILE_PATH = "src/com/he/api/data.xml";
