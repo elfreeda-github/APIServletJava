@@ -2,11 +2,6 @@ package com.he.api;
 
 import java.util.List;
 
-
-/**
- *
- * @author divyansh
- */
 public interface UserDAO {
     public List<User> getAllUsers();
     public List<User> searchByCity(String city);
